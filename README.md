@@ -1,5 +1,5 @@
 # NLW eSports 
-![preview](./README.md)
+![preview](./github/preview.png)
 > Trilha Explorer
 
 Projeto construido no evento RocketSeat
